@@ -27,15 +27,8 @@ WhatsLab was made as a training project, during my Full-Stack Web Development co
 * React and styled components.
 
 ## Deployed at
+http://bemporad-whatslab.surge.sh/
 
-## Getting Started
-<!--### Prerequisites
-Install dependencies
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
--->
 ### Installation
 1. Clone the repo
    ```sh
